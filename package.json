@@ -1,0 +1,23 @@
+{
+  "name": "express_setup_drills",
+  "version": "1.0.0",
+  "description": "## Getting Started",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpsu/express_setup_drills.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpsu/express_setup_drills/issues"
+  },
+  "homepage": "https://github.com/alexpsu/express_setup_drills#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
